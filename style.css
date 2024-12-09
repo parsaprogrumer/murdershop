@@ -16,8 +16,8 @@ a{
 header{
     color: white;
     background: #242A38;
-    max-width: 1920px;
-    width: 1912px;
+    max-width: 1912px;
+    width: 1912px auto;
     height: 100px;
     padding-left: 3rem;
     padding-right: 3rem;
@@ -31,6 +31,12 @@ header{
     top: -50px;
 }
 nav{
+    column-gap: .25rem;
+
+    align-items: center;
+    height: 3.25rem;
+    display: flex;
+    color:  #fff;
     background-position: 0% 0%;
     height: 52px;
     width: 684px;
@@ -38,9 +44,6 @@ nav{
     min-width: auto;
     min-height: auto;
     position: relative;
-    top: -60px;
-    right: -100px;
-}
-navigation{
-    color:  #fff;
+    top: -80px;
+    right: 200px;
 }
