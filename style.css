@@ -16,6 +16,7 @@ a{
 header{
     color: white;
     background: #242A38;
+    max-width: 1920px;
     width: 1912px;
     height: 100px;
     padding-left: 3rem;
