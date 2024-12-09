@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    width: 100% auto;
+    width: auto;
     font-family: dana;
     font-size: 20px;
     line-height: 28px;
