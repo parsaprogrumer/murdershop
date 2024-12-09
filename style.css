@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: dana;
+    font-size: 16px;
+    line-height: 28px;
+    text-decoration: none solid rgb(255, 255, 255);
+    background: #111827;
+    word-spacing: 0px;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+header{
+    color: white;
+    background: #242A38;
+    max-width: 1920px;
+    width: 1912px;
+    height: 100px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding: 48px 0px 48px 0px;
+}
+.logo{
+    width: 130px;
+    height: 50px;
+    margin: 25px 20px;
+}
+nav{
+    background-position: 0% 0%;
+    max-width: 684px;
+    height: 52px;
+    width: 684px;
+    text-align: center;
+    min-width: auto;
+    min-height: auto;
+}
+.humanav{
+    color:  #fff;
+}
