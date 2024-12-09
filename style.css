@@ -19,7 +19,7 @@ header{
     color: white;
     background: #242A38;
     max-width: 1912px;
-    width: 1912px auto;
+    width: 100% auto;
     height: 100px;
     padding-left: 3rem;
     padding-right: 3rem;
